@@ -1,0 +1,16 @@
+{
+  "name": "astraltg",
+  "version": "1.0.0",
+  "description": "Astral Bot",
+  "main": "bot.js",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "start": "node bot.js"
+  },
+  "author": "Vladislav Budkin",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.16"
+  }
+}
